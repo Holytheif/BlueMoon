@@ -1,0 +1,21 @@
+{
+    "name": "blue-moon",
+    "displayName": "Blue Moon",
+    "description": "Theme like this one is made once in a blue moon",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blue Moon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blue Moon-color-theme.json"
+            }
+        ]
+    }
+}
