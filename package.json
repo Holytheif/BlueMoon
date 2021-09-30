@@ -2,7 +2,7 @@
     "name": "blue-moon",
     "displayName": "Blue Moon",
     "description": "Theme like this one is made once in a blue moon",
-    "publisher": "bluemoon",
+    "publisher": "RisabhRai",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
