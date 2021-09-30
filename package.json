@@ -2,9 +2,19 @@
     "name": "blue-moon",
     "displayName": "Blue Moon",
     "description": "Theme like this one is made once in a blue moon",
+    "publisher": "bluemoon",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
+    },
+    "icon": "icons/bluemoon-icon.png",
+    "author": {
+        "name": "Risabh Rai",
+        "email": "risabhrai2001@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/Risabhrai/BlueMoon",
+        "type": "git"
     },
     "categories": [
         "Themes"
